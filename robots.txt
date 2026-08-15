@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-t3cxdb.hartawin.online/sitemap.xml
